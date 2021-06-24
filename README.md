@@ -1,8 +1,11 @@
 # Layout-project
 My layout project, which I completed using the "Figma" graphics editor.
 On this project I mastered:
-CSS Grid
-CSS Flexbox
+<ul>
+    <li>CSS Grid</li>
+    <li>CSS Flexbox</li>
+</ul>
+
 https://vladyslavos.github.io/Layout-project/
 
 
