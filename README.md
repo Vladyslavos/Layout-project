@@ -1,6 +1,6 @@
 <h1 align = "center">Layout-project</h1>
 <h2>My layout project, which I completed using the "Figma" graphics editor.</h2><br>
-On this project I mastered:
+<h2>On this project I mastered:</h2>
 <ul>
     <li>CSS Grid</li>
     <li>CSS Flexbox</li>
