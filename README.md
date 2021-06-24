@@ -1,5 +1,5 @@
 <h1 align = "center">Layout-project</h1>
-My layout project, which I completed using the "Figma" graphics editor.<br>
+<h2>My layout project, which I completed using the "Figma" graphics editor.</h2><br>
 On this project I mastered:
 <ul>
     <li>CSS Grid</li>
