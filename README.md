@@ -1,4 +1,4 @@
-# Layout-project
+<h1 align = "center">Layout-project</h1>
 My layout project, which I completed using the "Figma" graphics editor.<br>
 On this project I mastered:
 <ul>
